@@ -1,6 +1,6 @@
 import sys
 
-name = "Kevin Kevinstone"
+name = "owoalex"
 
 print("You said your name was  " + name)
 
@@ -10,6 +10,6 @@ else:
     name_given = str(input("Is that your name? Type it here for me!\n"))
 
 if name_given == name:
-    print("Great, I've got the right person!")
+    print("Stop beeing a weeb you weeb")
 else:
-    print("Oh...sorry I must have the wrong person. Change the code and I'll know who you are")
+    print("Ok, you're free to go")
